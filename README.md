@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <h2 align="center">👋 Hello! I'm Steve Lemuel.</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1510976/94387154-e173cd00-017b-11eb-9dd9-c5d69d0ac0e2.png" />
+  <img height="500" src="https://user-images.githubusercontent.com/1510976/94387154-e173cd00-017b-11eb-9dd9-c5d69d0ac0e2.png" />
 </p>
