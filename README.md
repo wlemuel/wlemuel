@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1510976/94505182-1136d980-023d-11eb-90bb-1362a00af04b.png" />
+  <img alt="HELLO WORLD !" src="https://user-images.githubusercontent.com/1510976/95227959-5062bd00-0831-11eb-8f47-4616faf01901.png" />
 </p>
