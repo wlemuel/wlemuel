@@ -1,21 +1,11 @@
-<!--
-**wlemuel/wlemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<h2 align="center">👋 Hello! I'm Steve Lemuel.</h2>
--->
-
 <p align="center">
   <img alt="Hello World !" src="https://user-images.githubusercontent.com/1510976/101631830-f7e1b300-3a5f-11eb-8dcf-fda757f211c4.png" />
 </p>
+
+
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/wlemuel/count.svg" alt="" style="margin-top: 5px;" /></td>
+  </tr>
+</table>
